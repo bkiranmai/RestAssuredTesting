@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5138" started-at="2020-09-15T22:43:46 CEST" finished-at="2020-09-15T22:43:51 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5138" started-at="2020-09-15T22:43:46 CEST" finished-at="2020-09-15T22:43:51 CEST">
+      <class name="APITestingTestNG.LibraryAPI">
+        <test-method status="PASS" signature="ADDNewBook()[pri:0, instance:APITestingTestNG.LibraryAPI@3dfc5fb8]" name="ADDNewBook" duration-ms="5064" started-at="2020-09-15T22:43:46 CEST" finished-at="2020-09-15T22:43:51 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ADDNewBook -->
+      </class> <!-- APITestingTestNG.LibraryAPI -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
